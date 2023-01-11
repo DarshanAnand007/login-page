@@ -2,8 +2,8 @@ var express = require("express");
 var router = express.Router();
 
 const  credential = {
-    email : "admin@gmail.com",
-    password : "admin123"
+    email : "darshananand@gmail.com",
+    password : "8971878807"
 }
 
 // login user
